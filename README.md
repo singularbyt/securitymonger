@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @securitymonger
+- 👋 Hi, I’m @Singularbit
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
-securitymonger/48d26982fc2e0431f2ed32b3704d1d2c
+singularbit/48d26982fc2e0431f2ed32b3704d1d2c
 0bb4bc8ee968bbc3578abdb2a65e1d1e
-curitymonger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Singularbit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
